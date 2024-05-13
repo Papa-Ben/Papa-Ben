@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Papa-Ben
-- 👀 I’m interested in my family, nature, singel malt Scotch, gaming, keeping myself fit, good food and the universe itself.
+- 👀 I’m interested in my family, nature, single malt Scotch Whisky, keeping myself fit, gaming, good food and the universe itself.
 - 🌱 I’m currently learning Front-End Engineer at codecademy.com.
 - 💞️ I’m looking to collaborate on connecting to a developing-company and to start my developing career.
 - 📫 How to reach me? Just write me a mail.
