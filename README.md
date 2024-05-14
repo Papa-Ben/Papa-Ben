@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on connecting to a developing-company and to start my developing career.
 - 📫 How to reach me? Just write me a mail.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love hunting mushrooms in the forrest and identify them. (To me it's like hunting treasures)
+- ⚡ Fun fact: I love hunting mushrooms in the forrest to identify them. (To me it's like hunting treasures)
 
 <!---
 Papa-Ben/Papa-Ben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
