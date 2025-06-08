@@ -3,7 +3,7 @@
 - 🌱 Currently I'm in vocational rehabilitation at SRH Heidelberg to become an IT specialist application developer.
 - 📫 How to reach me? Just write me a mail.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love hunting mushrooms in the forrest to identify them. 🤓+🍄🍄‍🟫=🤔📖
+- ⚡ Fun fact: I love searching for mushrooms in the forrest to identify them. 🤓+🍄🍄‍🟫=🤔📖
 
 <!---
 Papa-Ben/Papa-Ben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
