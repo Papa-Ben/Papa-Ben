@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ben
 - 👀 I’m interested in my family, nature, Single Malt Scotch Whisky, keeping myself fit, gaming, good food and the universe itself.
 - 🌱 Currently I'm in vocational rehabilitation at SRH Heidelberg to become an IT specialist application developer.
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love searching for mushrooms in the forrest to identify them. 🤓+🍄🍄‍🟫=🤔📖
 
 <!---
