@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ben
 - 👀 I’m interested in my family, nature, Single Malt Scotch Whisky, keeping myself fit, gaming, good food and the universe itself.
-- 🌱 Currently I'm in vocational rehabilitation at SRH Heidelberg to become an IT specialist application developer.
-- ⚡ Fun fact: I love searching for mushrooms in the forrest to identify them. 🤓+🍄🍄‍🟫=🤔📖
+- 🌱 Currently I'm in vocational rehabilitation at SRH Heidelberg to become an IT specialist in application development.
+
 
 <!---
 Papa-Ben/Papa-Ben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
